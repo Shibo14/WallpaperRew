@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="selectedItemColor">#FF5722</color>
+    <color name="defaultItemColor">#E3B9B9</color>
+
+        <color name="default_color">#FFFFFF</color> <!-- Asosiy rang (oq) -->
+        <color name="selected_color">#FF0000</color> <!-- Tanlangan element rangi (qizil) -->
+
+</resources>
